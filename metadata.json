@@ -1,0 +1,6 @@
+{
+  "name": "Game Engine Editor",
+  "description": "Production-ready 3D/2D Web Game Engine Editor with collapsible panels, scene hierarchy, inspector, automated compression pipeline, physics simulation, and multi-format export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
